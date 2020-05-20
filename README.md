@@ -21,9 +21,9 @@ The dataset is filtered to represent Junior Data Professionals. A junior data po
 less that 1 year of professional coding experience and has the string 'Data' in their response to the question "Which of the following describe you?". This is coded as 'DevType' in the data file.
 
 ## Outliers
-For the variable 'CompTotal' that is total compensation there were 184 NA values present and there were unreal responses that amounted
-to 1 billion. Because of these outliers the median of the total compensation attribute was used to replace the NA values.
-There were responses where multiple responses were chosen by 1 respondent like in the case of 'devtype'. Some has responded that they are 
+For the variable 'CompTotal' that is total compensation; there were 184 NA values present. This variable had some unreal responses; example one amounted
+to 1 billion dollars. Because of these outliers the median of the total compensation attribute was used to replace the NA values.
+There were responses where multiple responses were chosen by a single respondent like in the case of 'devtype'. Some has responded that they are 
 back end developer and a data scientist. In such a case both the types (back end developer and data scientist) are counted once each. 
 
 
