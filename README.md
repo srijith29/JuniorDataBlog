@@ -1,9 +1,9 @@
 #JuniorDataBlog
 
 ## Introduction
-The motivation for this blog is my personal experience of being a newcomer in the field of DataScience. Every one of us might be overwhelmed with the scale of requirements out there.  This blog tries to answer some
-common questions anybody starting in this field could have. Fortunately for us stackoverflow, the go-to place for anything technical conducts a survey every year and collects data from its users. This is a comprehensive survey consisting of programmers, data scientists,
-testers, and other technical people. The original survey has been reduced to responses that had a 'Data' title in their
+The motivation for this blog is my personal experience of being a newcomer in the field of DataScience. As a new comer the list of technical requirements can be overwhelming. This blog tries to answer some
+common questions anybody starting in this field could have. Fortunately stackoverflow, the go-to place for anything technical conducts a survey every year and collects data from its users. This is a comprehensive survey consisting of programmers, data scientists,
+testers, and other technical people. The original survey has been reduced to responses that had a string 'Data' in their
 designation. More about this in the data preprocessing section.
 
 In short Junior data blog explores the StackOverFlow survey 2019 to find out inferences on Junior data professionals.
